@@ -1,7 +1,7 @@
 // Provide defaults for Meteor.settings
 //
 // To configure your own Twitter keys, see:
-//   https://github.com/meteor/meteor/wiki/Configuring-Twitter-in-Local-Market
+//   https://github.com/meteor/localmarket#configuring-twitter
 if (typeof Meteor.settings === 'undefined')
   Meteor.settings = {};
 
