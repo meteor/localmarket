@@ -13,7 +13,7 @@ Local Market is an open source app powered by Meteor and made by [Percolate Stud
 By default, Local Market comes configured with credentials for a shared Twitter app. You can also use credentials for your own Twitter application. Here's how:
 
 1. Register your application on Twitter:
-  1. Sign in and create your app on [https://dev.twitter.com/apps/new](Twitter's App Dashboard)
+  1. Sign in and create your app on [Twitter's App Dashboard](https://apps.twitter.com/apps/new)
   2. Set Callback URL to anything, but don't keep it blank. (Meteor apps use OAuth 1.0a, which doesn't require setting this field)
   3. In the "Settings" tab, enable "Allow this application to be used to Sign in with Twitter"
   4. In the "Permissions" tab, give the app "Read and Write" access.
