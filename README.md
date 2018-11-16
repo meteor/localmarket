@@ -32,3 +32,8 @@ By default, Local Market comes configured with credentials for a shared Twitter 
   ```
 
 3. Now you can run or deploy your copy of Local Market with the `--settings path/to/settings.json` option.
+
+
+Update: you will need to run this command inorder to run the app
+meteor npm install --save-exact @babel/runtime@7.0.0-beta.55
+
